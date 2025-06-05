@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0184-department-highest-salary) |
+| [0627-swap-salary](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1179-game-play-analysis-i) |
 | [1670-patients-with-a-condition](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->

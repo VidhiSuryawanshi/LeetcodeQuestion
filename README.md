@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0184-department-highest-salary) |
 | [0627-swap-salary](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0627-swap-salary) |
 | [1179-game-play-analysis-i](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1179-game-play-analysis-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1301-reformat-department-table) |
 | [1670-patients-with-a-condition](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->

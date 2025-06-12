@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0607-sales-person) |
 | [0627-swap-salary](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0627-swap-salary) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1179-game-play-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1301-reformat-department-table) |

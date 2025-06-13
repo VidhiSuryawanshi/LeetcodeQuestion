@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-reformat-department-table](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1301-reformat-department-table) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1670-patients-with-a-condition](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1670-patients-with-a-condition) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0219-contains-duplicate-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

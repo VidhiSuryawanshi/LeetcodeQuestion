@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0219-contains-duplicate-ii) |
+| [2058-concatenation-of-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->

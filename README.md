@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0485-max-consecutive-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0268-missing-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |

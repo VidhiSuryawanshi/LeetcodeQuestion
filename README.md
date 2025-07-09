@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0485-max-consecutive-ones) |
+| [1791-richest-customer-wealth](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0219-contains-duplicate-ii) |
 | [2058-concatenation-of-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/2058-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

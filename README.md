@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0189-rotate-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1791-richest-customer-wealth) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0485-max-consecutive-ones) |
+| [0898-transpose-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/2058-concatenation-of-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
 |  |

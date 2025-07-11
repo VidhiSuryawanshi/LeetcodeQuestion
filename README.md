@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0219-contains-duplicate-ii) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

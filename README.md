@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -135,9 +136,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

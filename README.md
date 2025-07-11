@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0136-single-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0240-search-a-2d-matrix-ii) |

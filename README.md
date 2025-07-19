@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0240-search-a-2d-matrix-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/0287-find-the-duplicate-number) |

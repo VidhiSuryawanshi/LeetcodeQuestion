@@ -1,9 +1,10 @@
 class MyQueue {
-    private Stack <Integer> first;
-    private Stack <Integer> second;
+    private Stack<Integer> first;
+    private Stack<Integer> second;
+
     public MyQueue() {
-        first = new Stack<>() ;
-        second = new Stack<>() ;
+        first=new Stack<>();
+        second=new Stack<>();
     }
     
     public void push(int x) {
@@ -24,12 +25,13 @@ class MyQueue {
             while(!first.isEmpty()){
                 second.push(first.pop());
             }
-        } 
+        }
         return second.peek();
+        
     }
     
     public boolean empty() {
-        return first.isEmpty() && second.isEmpty() ;
+        return first.isEmpty() && second.isEmpty();
     }
 }
 

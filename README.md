@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-reformat-department-table](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1301-reformat-department-table) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1670-patients-with-a-condition](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1670-patients-with-a-condition) |
+| [1811-fix-names-in-a-table](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/VidhiSuryawanshi/LeetcodeQuestion/tree/master/1948-rearrange-products-table) |
 ## Array
